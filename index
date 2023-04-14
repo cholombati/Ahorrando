@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ahorro en GitHub</title>
+  </head>
+  <body>
+    <h1>Bienvenidos a Ahorro en GitHub</h1>
+    <p>Este es un proyecto de ahorro que utiliza GitHub para compartir y colaborar en el código fuente.</p>
+    <h2>Objetivos del proyecto</h2>
+    <ul>
+      <li>Desarrollar una aplicación de ahorro fácil de usar y personalizable.</li>
+      <li>Compartir y colaborar en el código fuente utilizando GitHub.</li>
+      <li>Mejorar nuestras habilidades de programación y trabajo en equipo.</li>
+    </ul>
+    <h2>Tecnologías utilizadas</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>GitHub</li>
+  </body>
+</html>
